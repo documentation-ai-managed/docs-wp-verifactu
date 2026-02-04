@@ -15,8 +15,8 @@
         "dropdown": "dd",
         "pages": [
           {
-            "title": "eeee",
-            "path": "eeee"
+            "title": "Index",
+            "path": "index"
           }
         ]
       }
