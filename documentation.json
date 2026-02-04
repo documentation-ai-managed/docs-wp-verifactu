@@ -10,6 +10,11 @@
     }
   },
   "navigation": {
-    "pages": []
+    "pages": [
+      {
+        "title": "Introducción",
+        "path": "introduccin"
+      }
+    ]
   }
 }
