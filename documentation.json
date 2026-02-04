@@ -10,17 +10,13 @@
     }
   },
   "navigation": {
-    "products": [
+    "dropdowns": [
       {
-        "product": "product",
+        "dropdown": "dd",
         "pages": [
           {
-            "title": "asdf",
-            "path": "asdf"
-          },
-          {
-            "title": "test",
-            "path": "test"
+            "title": "eeee",
+            "path": "eeee"
           }
         ]
       }
