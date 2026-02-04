@@ -1,19 +1,23 @@
 {
   "name": "Starter Kit",
-  "initialRoute": "introduction",
+  "initialRoute": "introduccion",
   "colors": {
     "light": {
-      "brand": "#F97316"
+      "brand": "#6366f1",
+      "heading": "#1a1a1a",
+      "text": "#374151"
     },
     "dark": {
-      "brand": "#FDBA74"
+      "brand": "#cccefc",
+      "heading": "#f2f2f2",
+      "text": "#c1c1c1"
     }
   },
   "navigation": {
     "pages": [
       {
         "title": "Introducción",
-        "path": "introduccin"
+        "path": "introduccion"
       }
     ]
   }
