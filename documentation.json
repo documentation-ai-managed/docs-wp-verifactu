@@ -13,12 +13,7 @@
     "dropdowns": [
       {
         "dropdown": "dd",
-        "pages": [
-          {
-            "title": "asd",
-            "path": "asDd"
-          }
-        ]
+        "pages": []
       }
     ]
   }
