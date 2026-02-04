@@ -12,10 +12,6 @@
   "navigation": {
     "pages": [
       {
-        "group": "dd",
-        "pages": []
-      },
-      {
         "title": "asdf",
         "path": "asdf"
       },
