@@ -20,5 +20,13 @@
         "path": "introduccion"
       }
     ]
+  },
+  "navbar": {
+    "actions": {
+      "primary": {
+        "title": "Ir a wpverifactu.com",
+        "link": "https://wpverifactu.com"
+      }
+    }
   }
 }
