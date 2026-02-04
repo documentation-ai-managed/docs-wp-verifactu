@@ -10,16 +10,6 @@
     }
   },
   "navigation": {
-    "dropdowns": [
-      {
-        "dropdown": "dd",
-        "pages": [
-          {
-            "title": "test",
-            "path": "test"
-          }
-        ]
-      }
-    ]
+    "pages": []
   }
 }
