@@ -12,6 +12,10 @@
   "navigation": {
     "pages": [
       {
+        "title": "asdf",
+        "path": "asdf"
+      },
+      {
         "title": "test",
         "path": "test"
       }
