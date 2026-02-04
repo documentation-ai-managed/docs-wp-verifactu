@@ -10,14 +10,19 @@
     }
   },
   "navigation": {
-    "pages": [
+    "products": [
       {
-        "title": "asdf",
-        "path": "asdf"
-      },
-      {
-        "title": "test",
-        "path": "test"
+        "product": "product",
+        "pages": [
+          {
+            "title": "asdf",
+            "path": "asdf"
+          },
+          {
+            "title": "test",
+            "path": "test"
+          }
+        ]
       }
     ]
   }
